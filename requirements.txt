@@ -1,5 +1,5 @@
-setupextras >= 0.1.5
-rootpath >= 0.1.0
+setupextras @ git+https://github.com/SatoshiAndKin/python-setupextras@master#egg=setupextras
+rootpath @ git+https://github.com/SatoshiAndKin/python-rootpath@master#egg=rootpath
 six >= 1.11.0
 pygments >= 2.2.0
 termcolor >= 1.1.0
